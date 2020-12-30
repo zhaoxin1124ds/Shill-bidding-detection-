@@ -1,10 +1,10 @@
 # Shill bidding detection 
 Although shill bidding is a common auction fraud, it is however very tough to detect. The challenge is that the behavior of fraud bidders could be very similar to normal bidders. In this research project, I will implement an unsupervised learning algorithm for clustering and labeling of shill bidding using real business data.
 
+The **challenge** of this experiment is the records whose present obvious features on normal or shill biddings. I labeled those data as 'suspicious' and used supervised classification to further split the 'suspicious' records. The training data for supervised classification were those clearly labeled normal and shill bidding records.
+
 ## Data
 he data is real auction records from eBay, and is downloaded from [UCI](https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset).
-
-The challenge of this experiment is the records whose present obvious features on normal or shill biddings. I labled those data as 'suspicious' and used supervised classification to further split the 'suspicious' records. The training data for supervised classification were those clearly labeled normal and shill bidding records.
 
 ## Experiment procedure
 #### Data preparation

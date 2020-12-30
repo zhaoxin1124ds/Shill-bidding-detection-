@@ -27,10 +27,8 @@ I designed a "voting" algorithm to label the clusters:
 #### Supervised classification
 I used the recognized normal and shill bidding as training set for modeling to further split the suspicious records
 
-## Evaluation
-#### Best model
+## Results
 * _K_means_ is determined to have the best clustering performace.
-#### Accuracy
 * 6% records are recognized as shill bidding using unsupervised clustering.
 * 28% records are recognized as suspicious bidding using unsupervised clustering.
 * After supervised classification on suspicious bidding, totally **9%** records are recognized as shill bidding.

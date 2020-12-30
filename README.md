@@ -29,11 +29,11 @@ I used the recognized normal and shill bidding as training set for modeling to f
 
 ## Evaluation
 #### Best model
-* _K_means_ is determined to have the best prediction accuracy.
+* _K_means_ is determined to have the best clustering performace.
 #### Accuracy
 * 6% bidding are recognized as shill bidding using unsupervised clustering.
 * 28% bidding are recognized as suspicious bidding using unsupervised clustering.
-* After supervised classification on suspicious bidding, totally 9% bidding are recognized as shill bidding.
+* After supervised classification on suspicious bidding, totally **9%** bidding are recognized as shill bidding.
 
 ## More thinks for further improvement
 * After being fed more data, this model should be able to predict shill bidding on eBay more efficiently.

@@ -3,6 +3,8 @@ Although shill bidding is a common auction fraud, it is however very tough to de
 
 The **challenge** of this experiment is the records whose present obvious features on normal or shill biddings. I labeled those data as 'suspicious' and used supervised classification to further split the 'suspicious' records. The training data for supervised classification were those clearly labeled normal and shill bidding records.
 
+## [Presentation](https://github.com/zhaoxin1124ds/Shill-bidding-detection-/blob/main/Shill_bider_clustering.pdf)
+
 ## Data
 he data is real auction records from eBay, and is downloaded from [UCI](https://archive.ics.uci.edu/ml/datasets/Shill+Bidding+Dataset).
 
@@ -35,6 +37,3 @@ I used the recognized normal and shill bidding as training set for modeling to f
 
 ## More thinks for further improvement
 * After being fed more data, this model should be able to predict shill bidding on eBay more efficiently.
-
-## Presentation
-https://github.com/zhaoxin1124ds/Shill-bidding-detection-/blob/main/Shill_bider_clustering.pdf

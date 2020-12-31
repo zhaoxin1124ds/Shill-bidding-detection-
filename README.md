@@ -1,3 +1,4 @@
+![Picture1](https://user-images.githubusercontent.com/45460506/103392352-06f9d500-4ae3-11eb-9fdf-8dec8a9c3e4f.png)
 # Shill bidding detection 
 Although shill bidding is a common auction fraud, it is however very tough to detect. The challenge is that the behavior of fraud bidders could be very similar to normal bidders. In this research project, I will implement an unsupervised learning algorithm for clustering and labeling of shill bidding using real business data.
 

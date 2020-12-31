@@ -37,4 +37,4 @@ I used the recognized normal and shill bidding as training set for modeling to f
 * After being fed more data, this model should be able to predict shill bidding on eBay more efficiently.
 
 ## Presentation
-https://drive.google.com/file/d/1gY41uVPU-z6UjdEZblOFfa9Id5Kj83uI/view?usp=sharing
+https://github.com/zhaoxin1124ds/Shill-bidding-detection-/blob/main/Shill_bider_clustering.pdf
